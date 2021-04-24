@@ -4,7 +4,7 @@ The first GitHub repository for the beginning GitHub programmer. This is a basic
 
 This repository is a tutorial on how to create a basic gitHub repository, change the code in Visual Studio Code and then commit those changes to GitHub. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](http://youtu.be/fp0nd55MjzI?hd=1)
 
 # Development Environment
 
