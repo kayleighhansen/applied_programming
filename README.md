@@ -1,27 +1,17 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The first GitHub repository for the beginning GitHub programmer. This is a basic example of connecting a GitHub repository to Visual Studio Code. The code in a respository is a simple python print statement that prints "Hello World" when it runs. Also included is a gitignore file and this README file. 
 
-Test of the commits
-
-Second test
-
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+This repository is a tutorial on how to create a basic gitHub repository, change the code in Visual Studio Code and then commit those changes to GitHub. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The GitHub guide was very helpful in finding the right way to create the respository. This page also really helped clear up some terminology.
 
-{Describe the programming language that you used}
+I used python for this repository.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [GitHub Guides](https://guides.github.com/activities/hello-world/)
